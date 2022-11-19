@@ -15,7 +15,7 @@ The connection for each component to NodeMCU as follows
 	RST pin D3
 	DC pin D4
 
-	###RDM6300
+	RDM6300
 	RDM6300 RX pin D1
 	RDM6300 LED pin D8
 
