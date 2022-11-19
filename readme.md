@@ -2,6 +2,7 @@
 
 An arduino code for making RFID based presences project
 The component that are use for this project:
+
 	1. NodeMCU V3 Lolin + Shield (Optional)
 	2. TFT Dispay 3.4 inches (Not Touchscreen)
 	3. RDM6300 Proxy card reader
