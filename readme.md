@@ -9,7 +9,8 @@ The component that are use for this project:
 	5. Passive Buzzer
 	
 The connection for each component to NodeMCU as follows
-	###TFT Display
+	
+	TFT Display
 	CS pin D2
 	RST pin D3
 	DC pin D4
